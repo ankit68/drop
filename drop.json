@@ -1,6 +1,20 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/b31thG3/papr20.jpg",
+      "downloadable":false,
+      "name":"Winterland",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/8YW74FN/papr19.jpg",
+      "downloadable":false,
+      "name":"Snow Mountian",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/fd9M2xk/papr24.jpg",
       "downloadable":false,
       "name":"Maxy",
