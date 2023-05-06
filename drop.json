@@ -1,6 +1,13 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/CMZYj31/papr30.jpg",
+      "downloadable":false,
+      "name":"Race",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/60TJZYB/papr28.jpg",
       "downloadable":false,
       "name":"Shell",
