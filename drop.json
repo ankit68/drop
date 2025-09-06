@@ -1,6 +1,27 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/1tL5d7dy/papr49.jpg",
+      "downloadable":false,
+      "name":"Celestial Horizon",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/JRczdphD/papr50.jpg",
+      "downloadable":false,
+      "name":"Radiant Horizon",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/BV6L3ZZ6/papr124.jpg",
+      "downloadable":false,
+      "name":"Aurora Flow",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/p6CKdYVj/papr45.jpg",
       "downloadable":false,
       "name":"Majestic Mountain",
@@ -7654,6 +7675,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
