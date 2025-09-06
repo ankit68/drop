@@ -1,6 +1,20 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/hx87w1HC/papr43.jpg",
+      "downloadable":false,
+      "name":"Purple Peak",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/0y93PJQf/papr42.jpg",
+      "downloadable":false,
+      "name":"Sierra",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/4YvbZDx/papr35.jpg",
       "downloadable":false,
       "name":"Multi-Mountain",
@@ -7626,3 +7640,4 @@
       "category":"Amoled"
    }
 ]
+
