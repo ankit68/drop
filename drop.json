@@ -1,6 +1,13 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/Y7qv2q9g/papr44.jpg",
+      "downloadable":false,
+      "name":"Forest Blooms",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/hx87w1HC/papr43.jpg",
       "downloadable":false,
       "name":"Purple Peak",
@@ -7640,4 +7647,5 @@
       "category":"Amoled"
    }
 ]
+
 
