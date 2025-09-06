@@ -1,6 +1,13 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/p6CKdYVj/papr45.jpg",
+      "downloadable":false,
+      "name":"Majestic Mountain",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/Y7qv2q9g/papr44.jpg",
       "downloadable":false,
       "name":"Forest Blooms",
@@ -7647,5 +7654,6 @@
       "category":"Amoled"
    }
 ]
+
 
 
