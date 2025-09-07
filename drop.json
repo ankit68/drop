@@ -1,6 +1,13 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/PZfycCfF/papr52.jpg",
+      "downloadable":false,
+      "name":"Deer Silhouette at Sunset",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/1tL5d7dy/papr49.jpg",
       "downloadable":false,
       "name":"Celestial Horizon",
@@ -7675,3 +7682,4 @@
       "category":"Amoled"
    }
 ]
+
