@@ -1,6 +1,20 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/ycL2wXT0/papr54.jpg",
+      "downloadable":false,
+      "name":"Seascape",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/wrSX3bMx/papr53.jpg",
+      "downloadable":false,
+      "name":"Waveland",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/PZfycCfF/papr52.jpg",
       "downloadable":false,
       "name":"Deer Silhouette at Sunset",
@@ -7682,4 +7696,5 @@
       "category":"Amoled"
    }
 ]
+
 
