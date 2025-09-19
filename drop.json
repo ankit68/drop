@@ -1,6 +1,13 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/xtdx07hM/papr55.jpg",
+      "downloadable":false,
+      "name":"Triscape",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/ycL2wXT0/papr54.jpg",
       "downloadable":false,
       "name":"Seascape",
@@ -7696,5 +7703,6 @@
       "category":"Amoled"
    }
 ]
+
 
 
