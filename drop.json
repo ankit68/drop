@@ -1,6 +1,13 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/wh7TjH11/papr36.jpg",
+      "downloadable":false,
+      "name":"Fluidy X",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/xtdx07hM/papr55.jpg",
       "downloadable":false,
       "name":"Triscape",
@@ -7703,6 +7710,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
