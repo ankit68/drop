@@ -1,6 +1,20 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/CpQV2MTG/papr60.jpg",
+      "downloadable":false,
+      "name":"Chromatic Horizon",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/VWcvQBzR/papr206.jpg",
+      "downloadable":false,
+      "name":"Chromaflow",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/dJtbn5xv/papr59.jpg",
       "downloadable":false,
       "name":"Whispers Through the Valley",
@@ -7724,6 +7738,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
