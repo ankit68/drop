@@ -1,6 +1,13 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/M5GTpdNj/papr208.jpg",
+      "downloadable":false,
+      "name":"Rippleverse",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/CpQV2MTG/papr60.jpg",
       "downloadable":false,
       "name":"Chromatic Horizon",
@@ -7738,6 +7745,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
