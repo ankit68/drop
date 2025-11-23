@@ -1,6 +1,13 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/N2MznX80/papr65.jpg",
+      "downloadable":false,
+      "name":"Crimson Peaks",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/d04YYhSX/papr125.jpg",
       "downloadable":false,
       "name":"Whispers of Hue",
@@ -7766,6 +7773,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
