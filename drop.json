@@ -1,6 +1,13 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/YBBbryj2/papr66.jpg",
+      "downloadable":false,
+      "name":"Vapor Valley",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/N2MznX80/papr65.jpg",
       "downloadable":false,
       "name":"Crimson Peaks",
@@ -7773,6 +7780,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
