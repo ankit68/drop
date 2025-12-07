@@ -1,6 +1,13 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/6c0SYh9t/papr32.jpg",
+      "downloadable":false,
+      "name":"Christmas Eve Skyline",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/Kj9p46bS/papr212.jpg",
       "downloadable":false,
       "name":"Ribbon Flow",
@@ -7787,6 +7794,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
