@@ -1,6 +1,13 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/Qv802VBK/papr34.jpg",
+      "downloadable":false,
+      "name":"Christmas Skyline Magic",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/6c0SYh9t/papr32.jpg",
       "downloadable":false,
       "name":"Christmas Eve Skyline",
@@ -7794,6 +7801,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
