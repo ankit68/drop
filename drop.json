@@ -1,6 +1,34 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/8gsvYTvx/papr70.jpg",
+      "downloadable":false,
+      "name":"Two Souls, One Skyline",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/G4VVm9X9/papr69.jpg",
+      "downloadable":false,
+      "name":"Northern Glow Serenity",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/B536m8cZ/papr68.jpg",
+      "downloadable":false,
+      "name":"Hyperlight Cityscape",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/CsTFCNML/papr67.jpg",
+      "downloadable":false,
+      "name":"Golden Horizon Valley",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/Qv802VBK/papr34.jpg",
       "downloadable":false,
       "name":"Christmas Skyline Magic",
@@ -7801,6 +7829,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
