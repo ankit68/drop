@@ -1,6 +1,20 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/3YMt5fqD/papr214.jpg",
+      "downloadable":false,
+      "name":"Quantum Waves",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/7tgpm1pd/papr213.jpg",
+      "downloadable":false,
+      "name":"Pulse Runner",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/8gsvYTvx/papr70.jpg",
       "downloadable":false,
       "name":"Two Souls, One Skyline",
@@ -7829,6 +7843,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
