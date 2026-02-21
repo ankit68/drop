@@ -1,6 +1,34 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/tMGX6HGd/papr73.jpg",
+      "downloadable":false,
+      "name":"Crimson Valley Flow",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/mrC53CmM/papr76.jpg",
+      "downloadable":false,
+      "name":"Whispering Horizon",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/gMz6mM94/papr75.jpg",
+      "downloadable":false,
+      "name":"Blush Peak Forest",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/5wNfg5g/papr74.jpg",
+      "downloadable":false,
+      "name":"Moonlit Alpine Silence",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/3YMt5fqD/papr214.jpg",
       "downloadable":false,
       "name":"Quantum Waves",
@@ -7843,6 +7871,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
