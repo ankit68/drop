@@ -1,6 +1,20 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/xqzT03bv/papr84.jpg",
+      "downloadable":false,
+      "name":"Violet Valley Sunset",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/Fb36M9SD/papr215.jpg",
+      "downloadable":false,
+      "name":"Crimson Flow Abstract",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/GvNJMR1Q/papr79.jpg",
       "downloadable":false,
       "name":"Lavender Horizon Dream",
@@ -7885,6 +7899,7 @@
       "category":"Amoled"
    }
 ]
+
 
 
 
