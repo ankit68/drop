@@ -1,6 +1,34 @@
 [
        {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/BVw9xYFf/papr225.jpg",
+      "downloadable":false,
+      "name":"Cosmic Ring",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/1Gwmz5Dw/papr224.jpg",
+      "downloadable":false,
+      "name":"Eclipse Trail",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/XxhpTCL8/papr223.jpg",
+      "downloadable":false,
+      "name":"Liquid Loop",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/gF3J93kX/papr222.jpg",
+      "downloadable":false,
+      "name":"Radiant Curve",
+      "category":"new"
+   },
+       {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/0pXS9tz1/papr128.jpg",
       "downloadable":false,
       "name":"Apex",
