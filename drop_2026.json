@@ -14,8 +14,7 @@
     "category": "new",
     "featured": true,
     "featuredTitle": "Wall of the Day",
-    "featuredSubtitle": "My favorite",
-    "featuredOrder": 1
+    "featuredSubtitle": "My favorite"
   },
   {
     "author": "Ankit Anand",
@@ -73,7 +72,7 @@
     "name": "Apex",
     "category": "new",
     "featured": true,
-    "featuredOrder": 2
+    "featuredOrder": 1
   },
   {
     "author": "Ankit Anand",
@@ -138,7 +137,7 @@
     "name": "Twilight Peaks",
     "category": "new",
     "featured": true,
-    "featuredOrder": 3
+    "featuredOrder": 2
   },
   {
     "author": "Ankit Anand",
@@ -161,7 +160,7 @@
     "name": "Fluid Gradient",
     "category": "new",
     "featured": true,
-    "featuredOrder": 4
+    "featuredOrder": 3
   },
   {
     "author": "Ankit Anand",
@@ -233,7 +232,7 @@
     "name": "Violet Valley Sunset",
     "category": "new",
     "featured": true,
-    "featuredOrder": 5
+    "featuredOrder": 4
   },
   {
     "author": "Ankit Anand",
@@ -242,7 +241,7 @@
     "name": "Crimson Flow Abstract",
     "category": "new",
     "featured": true,
-    "featuredOrder": 6
+    "featuredOrder": 5
   },
   {
     "author": "Ankit Anand",
