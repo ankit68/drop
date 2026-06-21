@@ -11,7 +11,10 @@
     "url": "https://i.ibb.co/JjFfM0vw/papr228.jpg",
     "downloadable": false,
     "name": "Midnight Fusion",
-    "category": "new"
+    "category": "new",
+    "featured": true,
+    "featuredTitle": "Wall of the Day",
+    "featuredSubtitle": "My favorite",
   },
   {
     "author": "Ankit Anand",
@@ -67,7 +70,9 @@
     "url": "https://i.ibb.co/0pXS9tz1/papr128.jpg",
     "downloadable": false,
     "name": "Apex",
-    "category": "new"
+    "category": "new",
+    "featured": true,
+    "featuredOrder": 1
   },
   {
     "author": "Ankit Anand",
@@ -130,7 +135,9 @@
     "url": "https://i.ibb.co/qY7CsHSd/papr101.jpg",
     "downloadable": false,
     "name": "Twilight Peaks",
-    "category": "new"
+    "category": "new",
+    "featured": true,
+    "featuredOrder": 2
   },
   {
     "author": "Ankit Anand",
@@ -151,7 +158,9 @@
     "url": "https://i.ibb.co/1YNWG7HT/papr38.jpg",
     "downloadable": false,
     "name": "Fluid Gradient",
-    "category": "new"
+    "category": "new",
+    "featured": true,
+    "featuredOrder": 3
   },
   {
     "author": "Ankit Anand",
@@ -221,14 +230,18 @@
     "url": "https://i.ibb.co/xqzT03bv/papr84.jpg",
     "downloadable": false,
     "name": "Violet Valley Sunset",
-    "category": "new"
+    "category": "new",
+    "featured": true,
+    "featuredOrder": 4
   },
   {
     "author": "Ankit Anand",
     "url": "https://i.ibb.co/Fb36M9SD/papr215.jpg",
     "downloadable": false,
     "name": "Crimson Flow Abstract",
-    "category": "new"
+    "category": "new",
+    "featured": true,
+    "featuredOrder": 5
   },
   {
     "author": "Ankit Anand",
