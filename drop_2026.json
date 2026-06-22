@@ -1,6 +1,14 @@
 [
   {
     "author": "Ankit Anand",
+    "url": "https://i.ibb.co/7xyjzhSm/papr67.jpg",
+    "downloadable": false,
+    "name": "KickPop",
+    "featured": true,
+    "featuredTitle": "Wall of the Day",
+  },
+  {
+    "author": "Ankit Anand",
     "url": "https://i.ibb.co/YFNjh8dN/papr113.jpg",
     "downloadable": false,
     "name": "Solara Falls",
@@ -11,10 +19,7 @@
     "url": "https://i.ibb.co/JjFfM0vw/papr228.jpg",
     "downloadable": false,
     "name": "Midnight Fusion",
-    "category": "new",
-    "featured": true,
-    "featuredTitle": "Wall of the Day",
-    "featuredSubtitle": "My favorite"
+    "category": "new"
   },
   {
     "author": "Ankit Anand",
