@@ -1,6 +1,21 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/67wR8bpZ/papr116.jpg",
+      "downloadable":false,
+      "name":"Palm Haven",
+      "featured":true,
+      "featuredOrder":4
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/nsH8sr5H/papr114.jpg",
+      "downloadable":false,
+      "name":"Sail Away",
+      "featured":true,
+      "featuredOrder":2
+   },{
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/7xyjzhSm/papr67.jpg",
       "downloadable":false,
       "name":"KickPop",
@@ -141,8 +156,7 @@
       "downloadable":false,
       "name":"Twilight Peaks",
       "category":"new",
-      "featured":true,
-      "featuredOrder":2
+      "featured":true
    },
    {
       "author":"Ankit Anand",
@@ -236,8 +250,7 @@
       "downloadable":false,
       "name":"Violet Valley Sunset",
       "category":"new",
-      "featured":true,
-      "featuredOrder":4
+      "featured":true
    },
    {
       "author":"Ankit Anand",
