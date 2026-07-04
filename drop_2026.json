@@ -1,11 +1,27 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/sdYrTkBg/papr229.jpg",
+      "downloadable":false,
+      "name":"Lavender Tide",
+      "category":"new",
+      "featured":true,
+      "featuredTitle":"Wall of the Day"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/JjFfM0vw/papr228.jpg",
+      "downloadable":false,
+      "name":"Midnight Fusion",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/67wR8bpZ/papr116.jpg",
       "downloadable":false,
       "name":"Palm Haven",
       "featured":true,
-      "featuredOrder":4
+      "featuredOrder":1
    },
    {
       "author":"Ankit Anand",
@@ -18,9 +34,7 @@
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/7xyjzhSm/papr67.jpg",
       "downloadable":false,
-      "name":"KickPop",
-      "featured":true,
-      "featuredTitle":"Wall of the Day"
+      "name":"KickPop"
    },
    {
       "author":"Ankit Anand",
@@ -90,9 +104,7 @@
       "url":"https://i.ibb.co/0pXS9tz1/papr128.jpg",
       "downloadable":false,
       "name":"Apex",
-      "category":"new",
-      "featured":true,
-      "featuredOrder":1
+      "category":"new"
    },
    {
       "author":"Ankit Anand",
@@ -155,8 +167,7 @@
       "url":"https://i.ibb.co/qY7CsHSd/papr101.jpg",
       "downloadable":false,
       "name":"Twilight Peaks",
-      "category":"new",
-      "featured":true
+      "category":"new"
    },
    {
       "author":"Ankit Anand",
@@ -249,15 +260,16 @@
       "url":"https://i.ibb.co/xqzT03bv/papr84.jpg",
       "downloadable":false,
       "name":"Violet Valley Sunset",
-      "category":"new",
-      "featured":true
+      "category":"new"
    },
    {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/Fb36M9SD/papr215.jpg",
       "downloadable":false,
       "name":"Crimson Flow Abstract",
-      "category":"new"
+      "category":"new",
+      "featured":true,
+      "featuredOrder":4
    },
    {
       "author":"Ankit Anand",
