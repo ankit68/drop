@@ -1,6 +1,43 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/hRJ1MQd5/papr130.jpg",
+      "downloadable":false,
+      "name":"Odyssey",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/4wLTp8hB/papr130.jpg",
+      "downloadable":false,
+      "name":"Hyperdrive",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/yncHqqfD/papr232.jpg",
+      "downloadable":false,
+      "name":"Toxic Skies",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/vtX5C8S/papr231.jpg",
+      "downloadable":false,
+      "name":"Ethereal Silk",
+      "featured":true,
+      "featuredTitle":"Wall of the Day",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/rKCb4zqD/papr230.jpg",
+      "downloadable":false,
+      "name":"Strata",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/twfcJ69S/papr129.jpg",
       "downloadable":false,
       "name":"Canopy",
@@ -25,9 +62,7 @@
       "url":"https://i.ibb.co/sdYrTkBg/papr229.jpg",
       "downloadable":false,
       "name":"Lavender Tide",
-      "category":"new",
-      "featured":true,
-      "featuredTitle":"Wall of the Day"
+      "category":"new"
    },
    {
       "author":"Ankit Anand",
