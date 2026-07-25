@@ -1,4 +1,33 @@
 [
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/6J0fXfhc/papr131.jpg",
+      "downloadable":false,
+      "name":"Ember Valley",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/6R89B08d/papr236.jpg",
+      "downloadable":false,
+      "name":"Prismatic Surge",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/qYgpmvjL/papr235.jpg",
+      "downloadable":false,
+      "name":"Luminous Drift",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/dJmWGyCk/papr233.jpg",
+      "downloadable":false,
+      "name":"Chromatic Layers",
+      "featuredTitle":"Wall of the Day",
+      "category":"new"
+   },
    {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/hRJ1MQd5/papr130.jpg",
@@ -26,7 +55,6 @@
       "downloadable":false,
       "name":"Ethereal Silk",
       "featured":true,
-      "featuredTitle":"Wall of the Day",
       "category":"new"
    },
    {
