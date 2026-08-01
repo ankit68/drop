@@ -41,7 +41,9 @@
       "url":"https://i.ibb.co/qYgpmvjL/papr235.jpg",
       "downloadable":false,
       "name":"Luminous Drift",
-      "category":"new"
+      "category":"new",
+      "featured":true,
+      "featuredOrder":2
    },
     {
       "author":"Ankit Anand",
@@ -62,7 +64,9 @@
       "url":"https://i.ibb.co/4wLTp8hB/papr130.jpg",
       "downloadable":false,
       "name":"Hyperdrive",
-      "category":"new"
+      "category":"new",
+      "featured":true,
+      "featuredOrder":3
    },
    {
       "author":"Ankit Anand",
@@ -76,8 +80,9 @@
       "url":"https://i.ibb.co/vtX5C8S/papr231.jpg",
       "downloadable":false,
       "name":"Ethereal Silk",
+      "category":"new",
       "featured":true,
-      "category":"new"
+      "featuredOrder":1
    },
    {
       "author":"Ankit Anand",
@@ -91,7 +96,9 @@
       "url":"https://i.ibb.co/twfcJ69S/papr129.jpg",
       "downloadable":false,
       "name":"Canopy",
-      "category":"new"
+      "category":"new",
+      "featured":true,
+      "featuredOrder":4
    },
     {
       "author":"Ankit Anand",
@@ -125,17 +132,13 @@
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/67wR8bpZ/papr116.jpg",
       "downloadable":false,
-      "name":"Palm Haven",
-      "featured":true,
-      "featuredOrder":1
+      "name":"Palm Haven"
    },
    {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/nsH8sr5H/papr114.jpg",
       "downloadable":false,
-      "name":"Sail Away",
-      "featured":true,
-      "featuredOrder":2
+      "name":"Sail Away"
    },{
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/7xyjzhSm/papr67.jpg",
@@ -294,9 +297,7 @@
       "url":"https://i.ibb.co/1YNWG7HT/papr38.jpg",
       "downloadable":false,
       "name":"Fluid Gradient",
-      "category":"new",
-      "featured":true,
-      "featuredOrder":3
+      "category":"new"
    },
    {
       "author":"Ankit Anand",
@@ -373,9 +374,7 @@
       "url":"https://i.ibb.co/Fb36M9SD/papr215.jpg",
       "downloadable":false,
       "name":"Crimson Flow Abstract",
-      "category":"new",
-      "featured":true,
-      "featuredOrder":4
+      "category":"new"
    },
    {
       "author":"Ankit Anand",
