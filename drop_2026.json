@@ -1,6 +1,28 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/8LKL7Vq8/papr135.jpg",
+      "downloadable":false,
+      "name":"Retro Ridge",
+      "category":"new",
+      "featuredTitle":"Wall of the Day"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/xKzDzrCC/papr134.jpg",
+      "downloadable":false,
+      "name":"Astral Mist",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/rKy6QdJt/papr133.jpg",
+      "downloadable":false,
+      "name":"Golden Horizon",
+      "category":"new"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/6J0fXfhc/papr131.jpg",
       "downloadable":false,
       "name":"Ember Valley",
@@ -25,7 +47,6 @@
       "url":"https://i.ibb.co/dJmWGyCk/papr233.jpg",
       "downloadable":false,
       "name":"Chromatic Layers",
-      "featuredTitle":"Wall of the Day",
       "category":"new"
    },
    {
