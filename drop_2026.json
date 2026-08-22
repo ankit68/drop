@@ -1,12 +1,29 @@
 [
     {
       "author":"Ankit Anand",
-      "url":"https://i.ibb.co/7xQN5sg1/papr243.jpg",
+      "url":"https://i.ibb.co/Q73K7H74/papr131.jpg",
       "downloadable":false,
-      "name":"Liquid Glass",
-      "category":"new",
+      "name":"Neon Slash"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/DDQ7J9Rz/papr245.jpg",
+      "downloadable":false,
+      "name":"Ethereal Waves",
       "featured":true,
       "featuredTitle":"Wall of the Day"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/TByt3dQs/papr244.jpg",
+      "downloadable":false,
+      "name":"Vivid Origami"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/7xQN5sg1/papr243.jpg",
+      "downloadable":false,
+      "name":"Liquid Glass"
    },
     {
       "author":"Ankit Anand",
