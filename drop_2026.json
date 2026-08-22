@@ -1,9 +1,29 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/Q7c71TNX/papr139.jpg",
+      "downloadable":false,
+      "name":"Neon Horizon"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/ymS0pjzj/papr247.jpg",
+      "downloadable":false,
+      "name":"Velvet Waves"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/C5sypxs0/papr246.jpg",
+      "downloadable":false,
+      "name":"Neon Vertex"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/Q73K7H74/papr131.jpg",
       "downloadable":false,
-      "name":"Neon Slash"
+      "name":"Neon Slash",
+      "featured":true,
+      "featuredOrder":1
    },
     {
       "author":"Ankit Anand",
@@ -17,7 +37,9 @@
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/TByt3dQs/papr244.jpg",
       "downloadable":false,
-      "name":"Vivid Origami"
+      "name":"Vivid Origami",
+      "featured":true,
+      "featuredOrder":4
    },
     {
       "author":"Ankit Anand",
@@ -37,7 +59,9 @@
       "url":"https://i.ibb.co/8LKL7Vq8/papr135.jpg",
       "downloadable":false,
       "name":"Retro Ridge",
-      "category":"new"
+      "category":"new",
+      "featured":true,
+      "featuredOrder":3
    },
     {
       "author":"Ankit Anand",
@@ -72,9 +96,7 @@
       "url":"https://i.ibb.co/qYgpmvjL/papr235.jpg",
       "downloadable":false,
       "name":"Luminous Drift",
-      "category":"new",
-      "featured":true,
-      "featuredOrder":2
+      "category":"new"
    },
     {
       "author":"Ankit Anand",
@@ -88,16 +110,16 @@
       "url":"https://i.ibb.co/hRJ1MQd5/papr130.jpg",
       "downloadable":false,
       "name":"Odyssey",
-      "category":"new"
+      "category":"new",
+      "featured":true,
+      "featuredOrder":2
    },
    {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/4wLTp8hB/papr130.jpg",
       "downloadable":false,
       "name":"Hyperdrive",
-      "category":"new",
-      "featured":true,
-      "featuredOrder":3
+      "category":"new"
    },
    {
       "author":"Ankit Anand",
@@ -111,9 +133,7 @@
       "url":"https://i.ibb.co/vtX5C8S/papr231.jpg",
       "downloadable":false,
       "name":"Ethereal Silk",
-      "category":"new",
-      "featured":true,
-      "featuredOrder":1
+      "category":"new"
    },
    {
       "author":"Ankit Anand",
@@ -127,9 +147,7 @@
       "url":"https://i.ibb.co/twfcJ69S/papr129.jpg",
       "downloadable":false,
       "name":"Canopy",
-      "category":"new",
-      "featured":true,
-      "featuredOrder":4
+      "category":"new"
    },
     {
       "author":"Ankit Anand",
