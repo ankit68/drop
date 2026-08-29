@@ -1,6 +1,26 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/5gBW9ry3/papr143.jpg",
+      "downloadable":false,
+      "name":"Pixelscape"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/DggjGtRN/papr144.jpg",
+      "downloadable":false,
+      "name":"Dusk",
+      "featured":true,
+      "featuredTitle":"Wall of the Day"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/G30yPgsy/papr249.jpg",
+      "downloadable":false,
+      "name":"Molten"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/Q7c71TNX/papr139.jpg",
       "downloadable":false,
       "name":"Neon Horizon"
@@ -29,9 +49,7 @@
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/DDQ7J9Rz/papr245.jpg",
       "downloadable":false,
-      "name":"Ethereal Waves",
-      "featured":true,
-      "featuredTitle":"Wall of the Day"
+      "name":"Ethereal Waves"
    },
     {
       "author":"Ankit Anand",
