@@ -1,6 +1,26 @@
 [
     {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/fV14JScz/papr39.jpg",
+      "downloadable":false,
+      "name":"Glass Gradients",
+      "featured":true,
+      "featuredTitle":"Wall of the Day"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/ymxZGhwk/papr145.jpg",
+      "downloadable":false,
+      "name":"The Pink Line"
+   },
+    {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/JWgFDbvv/papr148.jpg",
+      "downloadable":false,
+      "name":"Outrun Forest"
+   },
+    {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/5gBW9ry3/papr143.jpg",
       "downloadable":false,
       "name":"Pixelscape"
@@ -9,9 +29,7 @@
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/DggjGtRN/papr144.jpg",
       "downloadable":false,
-      "name":"Dusk",
-      "featured":true,
-      "featuredTitle":"Wall of the Day"
+      "name":"Dusk"
    },
     {
       "author":"Ankit Anand",
