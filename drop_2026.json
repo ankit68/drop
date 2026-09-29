@@ -1,5 +1,43 @@
 [
-       {
+         {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/mF4P56rb/papr132.jpg",
+      "downloadable":false,
+      "name":"Cyber Cross",
+      "featured":true,
+      "featuredTitle":"Wall of the Day"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/60Qd55CW/papr256.jpg",
+      "downloadable":false,
+      "name":"Arcs"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/qYY37N0w/papr255.jpg",
+      "downloadable":false,
+      "name":"Boomer"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/VpYG3drG/papr254.jpg",
+      "downloadable":false,
+      "name":"Iridescent Sweeps"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/7tD0b1T5/papr253.jpg",
+      "downloadable":false,
+      "name":"Sorbet Symphony"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/qLJMFfbm/papr44.jpg",
+      "downloadable":false,
+      "name":"Chroma Twine"
+   },
+{
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/1BDXfP3/papr152.jpg",
       "downloadable":false,
@@ -39,9 +77,7 @@
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/YF9GgDBq/papr23.jpg",
       "downloadable":false,
-      "name":"Centauri Skyline",
-      "featured":true,
-      "featuredTitle":"Wall of the Day"
+      "name":"Centauri Skyline"
    },
     {
       "author":"Ankit Anand",
