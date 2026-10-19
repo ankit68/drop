@@ -1,11 +1,29 @@
 [
-         {
+     {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/sv3SyDY1/papr153.jpg",
+      "downloadable":false,
+      "name":"Glowing Star",
+      "featured":true,
+      "featuredTitle":"Wall of the Day"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/VppG4h4Y/papr41.jpg",
+      "downloadable":false,
+      "name":"Jewel Fragments"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/YBKFGwjF/papr257.jpg",
+      "downloadable":false,
+      "name":"Sapphire Surge"
+   },
+   {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/mF4P56rb/papr132.jpg",
       "downloadable":false,
-      "name":"Cyber Cross",
-      "featured":true,
-      "featuredTitle":"Wall of the Day"
+      "name":"Cyber Cross"
    },
    {
       "author":"Ankit Anand",
