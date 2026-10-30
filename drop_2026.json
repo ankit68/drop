@@ -4,7 +4,8 @@
       "url":"https://i.ibb.co/ZsxVRWk/papr171.jpg",
       "downloadable":false,
       "name":"Seaborn",
-      "featuredTitle":"Wall of the Day"
+      "featuredTitle":"Wall of the Day",
+     "featured":true
    },
      {
       "author":"Ankit Anand",
@@ -40,8 +41,7 @@
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/LDn7nkwv/papr159.jpg",
       "downloadable":false,
-      "name":"Frozen Lake",
-      "featured":true
+      "name":"Frozen Lake"
    },
      {
       "author":"Ankit Anand",
